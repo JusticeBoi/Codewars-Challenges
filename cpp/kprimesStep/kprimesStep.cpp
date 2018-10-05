@@ -56,7 +56,6 @@ int_fast64_t primePower(int_fast64_t prime_number, int_fast64_t number_to_factor
 			}
 	}
 	return ans;
-
 }
 bool isPrime(int_fast64_t number)
 {
