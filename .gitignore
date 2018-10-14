@@ -12,3 +12,4 @@ install_manifest.txt
 *.autotools
 *.txt
 *bin
+*.json
