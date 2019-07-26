@@ -1,1 +1,2 @@
-## Codewar Kata Archive of Mine
+## Coding Challenges from Codewars
+### In progress
